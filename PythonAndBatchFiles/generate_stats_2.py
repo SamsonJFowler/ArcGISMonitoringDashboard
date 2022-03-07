@@ -18,7 +18,7 @@ import requests
 import json
 from requests_ntlm import HttpNtlmAuth
 import time
-from calendar import timegm
+from calendar import timeg
 from collections import Counter
 from arcgis.gis import GIS
 
